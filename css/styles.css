@@ -96,7 +96,7 @@ img {
 /**-------------HEADER--------------- */
 
 .header {
-  max-width: 1440px;
+
   padding-top: 24px;
   padding-bottom: 24px;
   border-bottom: 1px solid #e7e9fc;
@@ -118,6 +118,7 @@ img {
 
 }
 .header-conteiner {
+   
   display: flex;
   align-items: center;
 }
@@ -187,6 +188,7 @@ img {
    background-color: #2e2f42;
    background-image: linear-gradient( rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
 		url(../images/office.jpg);
+     max-width: 1440px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
