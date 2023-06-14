@@ -173,11 +173,11 @@ img {
   color: var(--subtitle-color);
 }
 
-.header-menu-link-link-current {
+.current {
   position: relative;
 }
 
-.header-menu-link-link-current::after {
+.current::after {
   width: 100%;
   content: "";
   position: absolute;
@@ -187,8 +187,6 @@ img {
   background-color: #404bbf;
   border-radius: 2px;
 }
-
-
 .header-addres-link {
   font-weight: 400;
   font-size: 16px;
