@@ -241,7 +241,7 @@ img {
 .hero-button:focus {
   background-color: #404bbf;
 }
-.svg {
+.advantages-icon-wrap {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -250,7 +250,6 @@ img {
   border-radius: 4px;
   margin-bottom: 8px;
 }
-
 .advantages {
   padding: 120px 0 120px;
 }
@@ -264,7 +263,6 @@ img {
 .advantages-item {
   width: calc((100% - 72px) / 4);
 }
-
 
 .products {
   padding-bottom: 120px;
