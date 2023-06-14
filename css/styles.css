@@ -175,6 +175,7 @@ img {
 
 
 
+
 .current::after {
   width: 100%;
   content: "";
