@@ -179,7 +179,7 @@ img {
 
 .current::after {
   width: 100%;
-  content: "./portfolio.html";
+  content: "";
   position: absolute;
   left: 0;
   bottom: -1px;
