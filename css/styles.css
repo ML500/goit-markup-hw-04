@@ -173,12 +173,13 @@ img {
   color: var(--subtitle-color);
 }
 
-
-
+.current {
+  position: relative;
+}
 
 .current::after {
   width: 100%;
-  content: "";
+  content: "./portfolio.html";
   position: absolute;
   left: 0;
   bottom: -1px;
